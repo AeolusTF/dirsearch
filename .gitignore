@@ -1,8 +1,15 @@
+<<<<<<< HEAD
+=======
+reports/
+logs/
+
+>>>>>>> dirsearch
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
+<<<<<<< HEAD
 # C extensions
 *.so
 
@@ -102,3 +109,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+=======
+.idea
+>>>>>>> dirsearch
